@@ -17,4 +17,4 @@ pnpm run dev
 
 Contato 📧
 
-gabysendeski@hotmail.com
+gaby.sendeski@hotmail.com
